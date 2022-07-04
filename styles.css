@@ -37,7 +37,7 @@ blockquote{
     display: block;
     height: auto;
     margin: 0 auto;
-    border:2px solid red;
+   
   }
 
 #img-div{
@@ -52,7 +52,7 @@ blockquote{
 }
 
 #tribute-info{
-   border:5px solid red;
+   
    width:50%;
    margin-left:auto;
    margin-right:auto;
